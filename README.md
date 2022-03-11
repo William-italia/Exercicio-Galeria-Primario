@@ -2,4 +2,4 @@
 
 ## Faça um site para exibir obras de arte feitas por alunos do primário.
 
-![Tela do site](tela.png)
+![.](./img/tela.png)
